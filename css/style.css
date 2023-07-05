@@ -233,7 +233,7 @@
 
 @media (max-width : 1080px) {
     #eimage {
-        max-height: 500px; 
+        max-height: 100%; 
         max-width: 100%; 
         position:absolute;      
         
@@ -246,7 +246,7 @@
 
 @media (max-width : 1680px) {
     #eimage {
-        max-height: 500px; 
+        max-height: 100%; 
         max-width: 100%; 
         position:absolute;      
         
@@ -259,7 +259,7 @@
 
 @media (max-width : 2080px) {
     #eimage {
-        max-height: 500px; 
+        max-height: 100%; 
         max-width: 100%; 
         position:absolute;      
         
