@@ -683,3 +683,12 @@
     color: var(--primary);
 }
 
+
+.shop_data {
+    display: flex;
+    /* 水平置中 */
+    justify-content: center;    
+    /* 垂直置中 */
+    align-content: center;      
+    flex-wrap: wrap;
+}
