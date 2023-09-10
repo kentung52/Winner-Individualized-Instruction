@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <sect1 id="spinner">
+    <para><note><remark>Favicon</remark></note><note><remark>Google Web Fonts</remark></note><note><remark>Icon Font Stylesheet</remark></note><note><remark>Libraries Stylesheet</remark></note><note><remark>Customized Bootstrap Stylesheet</remark></note><note><remark>Template Stylesheet</remark></note><note><remark>Spinner Start</remark></note>Loading... </para>
+  </sect1>
+  <para><note><remark>Spinner End</remark></note><note><remark>Topbar Start</remark></note><note><remark>&lt;div class="h-100 d-inline-flex align-items-center me-4"&gt;</remark></note><note><remark>&lt;small class="fa fa-map-marker-alt text-primary me-2"&gt;&lt;/small&gt;</remark></note><note><remark>&lt;small&gt;123 Street, New York, USA&lt;/small&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="h-100 d-inline-flex align-items-center"&gt;</remark></note><note><remark>&lt;small class="far fa-clock text-primary me-2"&gt;&lt;/small&gt;</remark></note><note><remark>&lt;small&gt;Mon - Fri : 09.00 AM - 09.00 PM&lt;/small&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><olink targetdocent="tel:+886-2-25047300">02-25047300</olink> </para>
+  <sect1>
+    <title>
+      <note>
+        <remark>&lt;a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary" href=""&gt;&lt;i class="fa fa-envelope me-3"&gt;&lt;/i&gt;&lt;/a&gt;</remark>
+      </note>
+      <note>
+        <remark>Topbar End</remark>
+      </note>
+      <note>
+        <remark>Navbar Start</remark>
+      </note>
+      <olink targetdocent="../index.html">得勝者文理補習班</olink>
+    </title>
+    <note>
+      <remark>&lt;a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary" href=""&gt;&lt;i class="fa fa-envelope me-3"&gt;&lt;/i&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>Topbar End</remark>
+    </note>
+    <note>
+      <remark>Navbar Start</remark>
+    </note>
+    <olink targetdocent="../index.html">得勝者文理補習班</olink>
+    <sect1 id="navbarCollapse">
+      <para><olink targetdocent="../index.html">首頁</olink> <olink targetdocent="../about.html">師資介紹</olink> <olink targetdocent="../service/service2023.html">活動照片</olink> <olink targetdocent="../project.html">班別介紹</olink><note><remark>&lt;div class="nav-item dropdown"&gt;</remark></note><note><remark>&lt;a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"&gt;Pages&lt;/a&gt;</remark></note><note><remark>&lt;div class="dropdown-menu bg-light m-0"&gt;</remark></note><note><remark>&lt;a href="feature.html" class="dropdown-item"&gt;Feature&lt;/a&gt;</remark></note><note><remark>&lt;a href="quote.html" class="dropdown-item"&gt;Free Quote&lt;/a&gt;</remark></note><note><remark>&lt;a href="team.html" class="dropdown-item"&gt;Our Team&lt;/a&gt;</remark></note><note><remark>&lt;a href="testimonial.html" class="dropdown-item"&gt;Testimonial&lt;/a&gt;</remark></note><note><remark>&lt;a href="404.html" class="dropdown-item"&gt;404 Page&lt;/a&gt;</remark></note><note><remark/></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;a href="contact.html" class="nav-item nav-link"&gt;Contact&lt;/a&gt;</remark></note> </para>
+      <para><olink targetdocent="../img/index_image/縮放提示.png">若圖片比例異常請使用Ctrl+滑鼠滾輪調整或重新整理</olink> </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title><inlinegraphic fileref="../../img/class_image/abbacusclass/上課照片.jpg" width="0.7862inch" depth="0.3929inch"/><anchor id="image"/><note><remark>Navbar End</remark></note><note><remark>About Start</remark></note>珠心算專班</title>
+    <note>
+      <remark>Navbar End</remark>
+    </note>
+    <note>
+      <remark>About Start</remark>
+    </note>
+    <para>活潑有趣的珠心算教學奠定優越的數學能力</para>
+    <para>珠算是中華傳統文化之一，因其精準、確實、迅速的計算功能，而久盛不衰。 將珠心算與國小數學相結合，而進行課程修改及珠心算教材修編，教學過程活潑有趣，藉以提升孩子對珠心算的學習興趣與教學的品質。 學習珠心算除了幫助孩子提升計算能力以外，對於專注力、記憶力、理解力與應變能力都有很大的幫助! </para>
+    <para>提升孩子對數字的敏感度</para>
+    <para>增強心算能力</para>
+    <para>專業珠算檢定</para>
+    <para><note><remark>About End</remark></note><inlinegraphic fileref="../img/class_image/abbacusclass/DM1.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+    <para><note><remark>&lt;a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href=""&gt;&lt;i class="fa fa-link"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><note><remark>&lt;h4 class="text-primary mb-0"&gt;兒童美語教師資格證&lt;/h4&gt;</remark></note><note><remark>&lt;hr class="text-primary w-25 my-2"&gt;</remark></note><note><remark>&lt;h5 class="lh-base"&gt;課程說明...&lt;/h5&gt;</remark></note><note><remark>&lt;a class="small fw-medium" href="./class/psodf_class.html"&gt;了解詳情&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><inlinegraphic fileref="../img/class_image/abbacusclass/DM2.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+  </sect1>
+  <sect1>
+    <title><note><remark>&lt;a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href=""&gt;&lt;i class="fa fa-link"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><note><remark>&lt;h4 class="text-primary mb-0"&gt;兒童美語教師資格證&lt;/h4&gt;</remark></note><note><remark>&lt;hr class="text-primary w-25 my-2"&gt;</remark></note><note><remark>&lt;h5 class="lh-base"&gt;課程說明...&lt;/h5&gt;</remark></note><note><remark>&lt;a class="small fw-medium" href="./class/psodf_class.html"&gt;了解詳情&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><note><remark>Feature Start</remark></note>課程特點</title>
+    <note>
+      <remark>&lt;a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href=""&gt;&lt;i class="fa fa-link"&gt;&lt;/i&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h4 class="text-primary mb-0"&gt;兒童美語教師資格證&lt;/h4&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;hr class="text-primary w-25 my-2"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="lh-base"&gt;課程說明...&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a class="small fw-medium" href="./class/psodf_class.html"&gt;了解詳情&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>Feature Start</remark>
+    </note>
+    <para>三算全能訓練，幫助每個孩子邁向未來更具競爭力</para>
+    <para>珠算教育正不斷向前發展，以符合現今教育需求。 三算(珠算、心算、數學)應用學秉持此一教育理念，首創將珠心算與基礎數學 統整教學，讓珠心算學習有了新的理念並能真實落實在數學基礎學習，也是珠心算教育發展的新趨勢。 此課程能幫助您的孩子進行有別於傳統的數學學習方式，跳脫固有的計算與思考邏輯訓練大腦靈活度， 讓孩子的算術基礎贏在起跑點! </para>
+    <para>因材施教</para>
+    <sect2>
+      <title/>
+      <sect3>
+        <title/>
+        <sect4>
+          <title>根據學生程度調整上課方式</title>
+          <para>師資</para>
+        </sect4>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title/>
+        <sect4>
+          <title>資深珠心算老師(胡老師)</title>
+          <para>時間</para>
+        </sect4>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title/>
+        <sect4>
+          <title>一個月/期</title>
+          <para>對孩子的好處</para>
+        </sect4>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title/>
+        <sect4>
+          <title>提升心算能力建立邏輯思考</title>
+          <para><inlinegraphic fileref="../img/class_image/abbacusclass/胡老師上課.jpg" width="0.7862inch" depth="0.3929inch"/><anchor id="image1"/> </para>
+        </sect4>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title><note><remark>Feature End</remark></note><note><remark>課程介紹 Start</remark></note>珠心算課程介紹</title>
+      <note>
+        <remark>Feature End</remark>
+      </note>
+      <note>
+        <remark>課程介紹 Start</remark>
+      </note>
+      <para>資深專業的珠心算老師引領孩子從基礎開始</para>
+      <para><inlinegraphic fileref="../../img/class_image/abbacusclass/加法.png" width="0.7862inch" depth="0.3929inch"/> </para>
+      <sect3>
+        <title>進五十、百位心算教學</title>
+        <para><note><remark>&lt;p&gt;Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.&lt;/p&gt;</remark></note><note><remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><inlinegraphic fileref="../../img/class_image/abbacusclass/99乘法.png" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+      <sect3>
+        <title>九九乘法順、抽背運算</title>
+        <para><note><remark>&lt;p&gt;Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.&lt;/p&gt;</remark></note><note><remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><inlinegraphic fileref="../img/class_image/abbacusclass/除法.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+      <sect3>
+        <title>除法概念及運算</title>
+        <para><note><remark>&lt;p&gt;Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.&lt;/p&gt;</remark></note><note><remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><inlinegraphic fileref="../img/class_image/mathclass/郭老師上課.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+      <sect3>
+        <title>配合數學課程</title>
+        <para><note><remark>&lt;p&gt;Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.&lt;/p&gt;</remark></note><note><remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><inlinegraphic fileref="../img/class_image/abbacusclass/檢定.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+      <sect3>
+        <title>定期階段分級檢定</title>
+        <para><note><remark>&lt;p&gt;Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.&lt;/p&gt;</remark></note><note><remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><inlinegraphic fileref="../../img/class_image/abbacusclass/提升學習力.png" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+      <sect3>
+        <title>提升學習能力</title>
+        <sect4>
+          <title><note><remark>&lt;p&gt;&lt;/p&gt;</remark></note><note><remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><note><remark>課程介紹 End</remark></note><note><remark>Footer Start</remark></note>聯絡方式</title>
+          <note>
+            <remark>&lt;p&gt;&lt;/p&gt;</remark>
+          </note>
+          <note>
+            <remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark>
+          </note>
+          <note>
+            <remark>課程介紹 End</remark>
+          </note>
+          <note>
+            <remark>Footer Start</remark>
+          </note>
+          <para>龍江路377巷22號, Zhongshan District, Taiwan</para>
+          <para>02 25047300</para>
+          <para>Winner25047300@gmail.com</para>
+          <para><note><remark>&lt;a class="btn btn-square btn-outline-light btn-social" href=""&gt;&lt;i class="fab fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><note><remark>&lt;div class="col-lg-3 col-md-6"&gt;</remark></note><note><remark>&lt;h5 class="text-white mb-4"&gt;Quick Links&lt;/h5&gt;</remark></note><note><remark>&lt;a class="btn btn-link" href=""&gt;About Us&lt;/a&gt;</remark></note><note><remark>&lt;a class="btn btn-link" href=""&gt;Contact Us&lt;/a&gt;</remark></note><note><remark>&lt;a class="btn btn-link" href=""&gt;Our Services&lt;/a&gt;</remark></note><note><remark>&lt;a class="btn btn-link" href=""&gt;Terms &amp; Condition&lt;/a&gt;</remark></note><note><remark>&lt;a class="btn btn-link" href=""&gt;Support&lt;/a&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-lg-3 col-md-6"&gt;</remark></note><note><remark>&lt;h5 class="text-white mb-4"&gt;Project Gallery&lt;/h5&gt;</remark></note><note><remark>&lt;div class="row g-2"&gt;</remark></note><note><remark>&lt;div class="col-4"&gt;</remark></note><note><remark>&lt;img class="img-fluid rounded" src="img/gallery-1.jpg" alt=""&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-4"&gt;</remark></note><note><remark>&lt;img class="img-fluid rounded" src="img/gallery-2.jpg" alt=""&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-4"&gt;</remark></note><note><remark>&lt;img class="img-fluid rounded" src="img/gallery-3.jpg" alt=""&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-4"&gt;</remark></note><note><remark>&lt;img class="img-fluid rounded" src="img/gallery-4.jpg" alt=""&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-4"&gt;</remark></note><note><remark>&lt;img class="img-fluid rounded" src="img/gallery-5.jpg" alt=""&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-4"&gt;</remark></note><note><remark>&lt;img class="img-fluid rounded" src="img/gallery-6.jpg" alt=""&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-lg-3 col-md-6"&gt;</remark></note><note><remark>&lt;h5 class="text-white mb-4"&gt;Newsletter&lt;/h5&gt;</remark></note><note><remark>&lt;p&gt;Dolor amet sit justo amet elitr clita ipsum elitr est.&lt;/p&gt;</remark></note><note><remark>&lt;div class="position-relative mx-auto" style="max-width: 400px;"&gt;</remark></note><note><remark>&lt;input class="form-control border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email"&gt;</remark></note><note><remark>&lt;button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2"&gt;SignUp&lt;/button&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note>© <link linkend="">版權所有</link>, Viper-Studio </para>
+          <para>
+            <note>
+              <remark>&lt;!-- /*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/--&gt;</remark>
+            </note>
+            <note>
+              <remark>Designed By &lt;a href="https://htmlcodex.com"&gt;HTML Codex&lt;/a&gt;</remark>
+            </note>
+            <note>
+              <remark>&lt;br&gt;Distributed By: &lt;a href="https://themewagon.com" target="_blank"&gt;ThemeWagon&lt;/a&gt;</remark>
+            </note>
+            <note>
+              <remark>Footer End</remark>
+            </note>
+            <note>
+              <remark>Back to Top</remark>
+            </note>
+            <note>
+              <remark>JavaScript Libraries</remark>
+            </note>
+            <note>
+              <remark>Template Javascript</remark>
+            </note>
+          </para>
+        </sect4>
+      </sect3>
+    </sect2>
+  </sect1>
+</article>

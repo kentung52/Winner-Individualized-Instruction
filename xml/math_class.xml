@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <sect1 id="spinner">
+    <para><note><remark>Favicon</remark></note><note><remark>Google Web Fonts</remark></note><note><remark>Icon Font Stylesheet</remark></note><note><remark>Libraries Stylesheet</remark></note><note><remark>Customized Bootstrap Stylesheet</remark></note><note><remark>Template Stylesheet</remark></note><note><remark>Spinner Start</remark></note>Loading... </para>
+  </sect1>
+  <para><note><remark>Spinner End</remark></note><note><remark>Topbar Start</remark></note><note><remark>&lt;div class="h-100 d-inline-flex align-items-center me-4"&gt;</remark></note><note><remark>&lt;small class="fa fa-map-marker-alt text-primary me-2"&gt;&lt;/small&gt;</remark></note><note><remark>&lt;small&gt;123 Street, New York, USA&lt;/small&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="h-100 d-inline-flex align-items-center"&gt;</remark></note><note><remark>&lt;small class="far fa-clock text-primary me-2"&gt;&lt;/small&gt;</remark></note><note><remark>&lt;small&gt;Mon - Fri : 09.00 AM - 09.00 PM&lt;/small&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><olink targetdocent="tel:+886-2-25047300">02-25047300</olink> </para>
+  <sect1>
+    <title>
+      <note>
+        <remark>&lt;a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary" href=""&gt;&lt;i class="fa fa-envelope me-3"&gt;&lt;/i&gt;&lt;/a&gt;</remark>
+      </note>
+      <note>
+        <remark>Topbar End</remark>
+      </note>
+      <note>
+        <remark>Navbar Start</remark>
+      </note>
+      <olink targetdocent="../index.html">得勝者文理補習班</olink>
+    </title>
+    <note>
+      <remark>&lt;a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary" href=""&gt;&lt;i class="fa fa-envelope me-3"&gt;&lt;/i&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>Topbar End</remark>
+    </note>
+    <note>
+      <remark>Navbar Start</remark>
+    </note>
+    <olink targetdocent="../index.html">得勝者文理補習班</olink>
+    <sect1 id="navbarCollapse">
+      <para><olink targetdocent="../index.html">首頁</olink> <olink targetdocent="../about.html">師資介紹</olink> <olink targetdocent="../service/service2023.html">活動照片</olink> <olink targetdocent="../project.html">班別介紹</olink><olink targetdocent="../project.html"><note><remark>&lt;div class="nav-item dropdown"&gt;</remark></note><note><remark>&lt;a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"&gt;Pages&lt;/a&gt;</remark></note><note><remark>&lt;div class="dropdown-menu bg-light m-0"&gt;</remark></note><note><remark>&lt;a href="feature.html" class="dropdown-item"&gt;Feature&lt;/a&gt;</remark></note><note><remark>&lt;a href="quote.html" class="dropdown-item"&gt;Free Quote&lt;/a&gt;</remark></note><note><remark>&lt;a href="team.html" class="dropdown-item"&gt;Our Team&lt;/a&gt;</remark></note><note><remark>&lt;a href="testimonial.html" class="dropdown-item"&gt;Testimonial&lt;/a&gt;</remark></note><note><remark>&lt;a href="404.html" class="dropdown-item"&gt;404 Page&lt;/a&gt;</remark></note><note><remark/></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;a href="contact.html" class="nav-item nav-link"&gt;Contact&lt;/a&gt;</remark></note></olink><olink targetdocent="../project.html"> </olink></para>
+      <para><olink targetdocent="../img/index_image/縮放提示.png">若圖片比例異常請使用Ctrl+滑鼠滾輪調整或重新整理</olink> </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title><inlinegraphic fileref="../../img/class_image/mathclass/數學課.jpg" width="0.7862inch" depth="0.3929inch"/><anchor id="image"/><note><remark>Navbar End</remark></note><note><remark>About Start</remark></note>數學專科班</title>
+    <note>
+      <remark>Navbar End</remark>
+    </note>
+    <note>
+      <remark>About Start</remark>
+    </note>
+    <para>孩子對數字的敏感度必須從小建立</para>
+    <para>您的孩子有學習數學上的困難嗎? | 會擔心孩子的數學成績嗎? 得勝者個別學習中心特別開設數學專科班，幫助孩子增強數學基礎，由經驗豐富的專業數學老師， 帶領學生一步步解題並複習學校相關進度 </para>
+    <para>學校進度複習</para>
+    <para>一對一解題教學</para>
+    <para>提供課外練習教材</para>
+    <para>考前總複習</para>
+  </sect1>
+  <sect1>
+    <title><note><remark>About End</remark></note><note><remark>Service Start</remark></note><note><remark>&lt;div class="container-xxl py-5"&gt;</remark></note><note><remark>&lt;div class="container"&gt;</remark></note><note><remark>&lt;div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;"&gt;</remark></note><note><remark>&lt;h6 class="text-primary"&gt;Our Services&lt;/h6&gt;</remark></note><note><remark>&lt;h1 class="mb-4"&gt;We Are Pioneers In The World Of Renewable Energy&lt;/h1&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="row g-4"&gt;</remark></note><note><remark>&lt;div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s"&gt;</remark></note><note><remark>&lt;div class="service-item rounded overflow-hidden"&gt;</remark></note><note><remark>&lt;img class="img-fluid" src="img/img-600x400-1.jpg" alt=""&gt;</remark></note><note><remark>&lt;div class="position-relative p-4 pt-0"&gt;</remark></note><note><remark>&lt;div class="service-icon"&gt;</remark></note><note><remark>&lt;i class="fa fa-solar-panel fa-3x"&gt;&lt;/i&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;h4 class="mb-3"&gt;Solar Panels&lt;/h4&gt;</remark></note><note><remark>&lt;p&gt;Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.&lt;/p&gt;</remark></note><note><remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s"&gt;</remark></note><note><remark>&lt;div class="service-item rounded overflow-hidden"&gt;</remark></note><note><remark>&lt;img class="img-fluid" src="img/img-600x400-2.jpg" alt=""&gt;</remark></note><note><remark>&lt;div class="position-relative p-4 pt-0"&gt;</remark></note><note><remark>&lt;div class="service-icon"&gt;</remark></note><note><remark>&lt;i class="fa fa-wind fa-3x"&gt;&lt;/i&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;h4 class="mb-3"&gt;Wind Turbines&lt;/h4&gt;</remark></note><note><remark>&lt;p&gt;Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.&lt;/p&gt;</remark></note><note><remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s"&gt;</remark></note><note><remark>&lt;div class="service-item rounded overflow-hidden"&gt;</remark></note><note><remark>&lt;img class="img-fluid" src="img/img-600x400-3.jpg" alt=""&gt;</remark></note><note><remark>&lt;div class="position-relative p-4 pt-0"&gt;</remark></note><note><remark>&lt;div class="service-icon"&gt;</remark></note><note><remark>&lt;i class="fa fa-lightbulb fa-3x"&gt;&lt;/i&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;h4 class="mb-3"&gt;Hydropower Plants&lt;/h4&gt;</remark></note><note><remark>&lt;p&gt;Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.&lt;/p&gt;</remark></note><note><remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s"&gt;</remark></note><note><remark>&lt;div class="service-item rounded overflow-hidden"&gt;</remark></note><note><remark>&lt;img class="img-fluid" src="img/img-600x400-4.jpg" alt=""&gt;</remark></note><note><remark>&lt;div class="position-relative p-4 pt-0"&gt;</remark></note><note><remark>&lt;div class="service-icon"&gt;</remark></note><note><remark>&lt;i class="fa fa-solar-panel fa-3x"&gt;&lt;/i&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;h4 class="mb-3"&gt;Solar Panels&lt;/h4&gt;</remark></note><note><remark>&lt;p&gt;Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.&lt;/p&gt;</remark></note><note><remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s"&gt;</remark></note><note><remark>&lt;div class="service-item rounded overflow-hidden"&gt;</remark></note><note><remark>&lt;img class="img-fluid" src="img/img-600x400-5.jpg" alt=""&gt;</remark></note><note><remark>&lt;div class="position-relative p-4 pt-0"&gt;</remark></note><note><remark>&lt;div class="service-icon"&gt;</remark></note><note><remark>&lt;i class="fa fa-wind fa-3x"&gt;&lt;/i&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;h4 class="mb-3"&gt;Wind Turbines&lt;/h4&gt;</remark></note><note><remark>&lt;p&gt;Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.&lt;/p&gt;</remark></note><note><remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s"&gt;</remark></note><note><remark>&lt;div class="service-item rounded overflow-hidden"&gt;</remark></note><note><remark>&lt;img class="img-fluid" src="img/img-600x400-6.jpg" alt=""&gt;</remark></note><note><remark>&lt;div class="position-relative p-4 pt-0"&gt;</remark></note><note><remark>&lt;div class="service-icon"&gt;</remark></note><note><remark>&lt;i class="fa fa-lightbulb fa-3x"&gt;&lt;/i&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;h4 class="mb-3"&gt;Hydropower Plants&lt;/h4&gt;</remark></note><note><remark>&lt;p&gt;Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.&lt;/p&gt;</remark></note><note><remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>Service End</remark></note><note><remark>Feature Start</remark></note>課程特點</title>
+    <note>
+      <remark>About End</remark>
+    </note>
+    <note>
+      <remark>Service Start</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="container-xxl py-5"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="container"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h6 class="text-primary"&gt;Our Services&lt;/h6&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h1 class="mb-4"&gt;We Are Pioneers In The World Of Renewable Energy&lt;/h1&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="row g-4"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="service-item rounded overflow-hidden"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;img class="img-fluid" src="img/img-600x400-1.jpg" alt=""&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="position-relative p-4 pt-0"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="service-icon"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;i class="fa fa-solar-panel fa-3x"&gt;&lt;/i&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h4 class="mb-3"&gt;Solar Panels&lt;/h4&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;p&gt;Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.&lt;/p&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="service-item rounded overflow-hidden"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;img class="img-fluid" src="img/img-600x400-2.jpg" alt=""&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="position-relative p-4 pt-0"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="service-icon"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;i class="fa fa-wind fa-3x"&gt;&lt;/i&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h4 class="mb-3"&gt;Wind Turbines&lt;/h4&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;p&gt;Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.&lt;/p&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="service-item rounded overflow-hidden"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;img class="img-fluid" src="img/img-600x400-3.jpg" alt=""&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="position-relative p-4 pt-0"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="service-icon"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;i class="fa fa-lightbulb fa-3x"&gt;&lt;/i&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h4 class="mb-3"&gt;Hydropower Plants&lt;/h4&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;p&gt;Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.&lt;/p&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="service-item rounded overflow-hidden"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;img class="img-fluid" src="img/img-600x400-4.jpg" alt=""&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="position-relative p-4 pt-0"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="service-icon"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;i class="fa fa-solar-panel fa-3x"&gt;&lt;/i&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h4 class="mb-3"&gt;Solar Panels&lt;/h4&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;p&gt;Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.&lt;/p&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="service-item rounded overflow-hidden"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;img class="img-fluid" src="img/img-600x400-5.jpg" alt=""&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="position-relative p-4 pt-0"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="service-icon"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;i class="fa fa-wind fa-3x"&gt;&lt;/i&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h4 class="mb-3"&gt;Wind Turbines&lt;/h4&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;p&gt;Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.&lt;/p&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="service-item rounded overflow-hidden"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;img class="img-fluid" src="img/img-600x400-6.jpg" alt=""&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="position-relative p-4 pt-0"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="service-icon"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;i class="fa fa-lightbulb fa-3x"&gt;&lt;/i&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h4 class="mb-3"&gt;Hydropower Plants&lt;/h4&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;p&gt;Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.&lt;/p&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>Service End</remark>
+    </note>
+    <note>
+      <remark>Feature Start</remark>
+    </note>
+    <para>經驗豐富的數學師資教學 &amp; 提升孩子的數學能力!</para>
+    <para>由10年教學經驗豐富的數學老師帶著學生複習相關進度， 更有獨立的解題時段供學生們詢問問題，每週固定時段開課，快來了解看看! </para>
+    <para>教學資源豐富</para>
+    <sect2>
+      <title/>
+      <sect3>
+        <title/>
+        <sect4>
+          <title>翰林 | 南一 | 康軒</title>
+          <para>師資</para>
+        </sect4>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title/>
+        <sect4>
+          <title>數學專科老師</title>
+          <para>時間</para>
+        </sect4>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title/>
+        <sect4>
+          <title>一個月/期</title>
+          <para>適合年齡</para>
+        </sect4>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title/>
+        <sect4>
+          <title>小一~國三</title>
+          <para><inlinegraphic fileref="../img/class_image/mathclass/數學課2.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+        </sect4>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title><note><remark>Feature End</remark></note><note><remark>課程介紹 Start</remark></note>數學專科課程介紹</title>
+      <note>
+        <remark>Feature End</remark>
+      </note>
+      <note>
+        <remark>課程介紹 Start</remark>
+      </note>
+      <para>因材施教的課程訓練孩子的數學邏輯</para>
+      <para><inlinegraphic fileref="../../img/class_image/mathclass/郭老師上課.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      <sect3>
+        <title>基礎數理教學</title>
+        <para>建立孩子基礎數學觀念，熟悉運算技巧減少失誤提升答題正確率</para>
+        <para><note><remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><inlinegraphic fileref="../../img/class_image/mathclass/數學課.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+      <sect3>
+        <title>題型剖析講解</title>
+        <para>對於複雜的題型由數學老師詳細分解步驟教學，放慢講解讓學生用淺顯易懂的方式學習</para>
+        <para><note><remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><inlinegraphic fileref="../img/class_image/mathclass/速解法.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+      <sect3>
+        <title>速解法教學</title>
+        <para>部分題型提供富含技巧的速解方式，給學生一種全新的解題思路</para>
+        <para><note><remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><inlinegraphic fileref="../img/class_image/mathclass/定期測驗.jpg" width="0.7862inch" depth="2.7083inch"/> </para>
+      </sect3>
+      <sect3>
+        <title>定期測驗</title>
+        <para>在進行少量多次的學習後，驗收成果當然必不可少，定期給予測驗卷，幫您掌握孩子的學習狀況</para>
+        <para><note><remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><inlinegraphic fileref="../../img/class_image/mathclass/課業內容加強.jpg" width="0.7862inch" depth="3.1252inch"/> </para>
+      </sect3>
+      <sect3>
+        <title>課業內容加強</title>
+        <para>學校安排的數學教材應是孩子需要最先鞏固的部分，我們專業的老師會根據孩子的需求，幫助其有效的複習課業內容</para>
+        <para><note><remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><inlinegraphic fileref="../../img/class_image/summerclasses/作業輔導.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+      <sect3>
+        <title>段考複習</title>
+        <para>當大考來臨，我們會預先加課進行重點複習，幫助孩子取得好成績</para>
+        <sect4>
+          <title><note><remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><note><remark>課程介紹 End</remark></note><note><remark>Footer Start</remark></note>聯絡方式</title>
+          <note>
+            <remark>&lt;a class="small fw-medium" href=""&gt;Read More&lt;i class="fa fa-arrow-right ms-2"&gt;&lt;/i&gt;&lt;/a&gt;</remark>
+          </note>
+          <note>
+            <remark>課程介紹 End</remark>
+          </note>
+          <note>
+            <remark>Footer Start</remark>
+          </note>
+          <para>龍江路377巷22號, Zhongshan District, Taiwan</para>
+          <para>02 25047300</para>
+          <para>Winner25047300@gmail.com</para>
+          <para><note><remark>&lt;a class="btn btn-square btn-outline-light btn-social" href=""&gt;&lt;i class="fab fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt;</remark></note><note><remark>&lt;div class="col-lg-3 col-md-6"&gt;</remark></note><note><remark>&lt;h5 class="text-white mb-4"&gt;Quick Links&lt;/h5&gt;</remark></note><note><remark>&lt;a class="btn btn-link" href=""&gt;About Us&lt;/a&gt;</remark></note><note><remark>&lt;a class="btn btn-link" href=""&gt;Contact Us&lt;/a&gt;</remark></note><note><remark>&lt;a class="btn btn-link" href=""&gt;Our Services&lt;/a&gt;</remark></note><note><remark>&lt;a class="btn btn-link" href=""&gt;Terms &amp; Condition&lt;/a&gt;</remark></note><note><remark>&lt;a class="btn btn-link" href=""&gt;Support&lt;/a&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-lg-3 col-md-6"&gt;</remark></note><note><remark>&lt;h5 class="text-white mb-4"&gt;Project Gallery&lt;/h5&gt;</remark></note><note><remark>&lt;div class="row g-2"&gt;</remark></note><note><remark>&lt;div class="col-4"&gt;</remark></note><note><remark>&lt;img class="img-fluid rounded" src="img/gallery-1.jpg" alt=""&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-4"&gt;</remark></note><note><remark>&lt;img class="img-fluid rounded" src="img/gallery-2.jpg" alt=""&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-4"&gt;</remark></note><note><remark>&lt;img class="img-fluid rounded" src="img/gallery-3.jpg" alt=""&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-4"&gt;</remark></note><note><remark>&lt;img class="img-fluid rounded" src="img/gallery-4.jpg" alt=""&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-4"&gt;</remark></note><note><remark>&lt;img class="img-fluid rounded" src="img/gallery-5.jpg" alt=""&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-4"&gt;</remark></note><note><remark>&lt;img class="img-fluid rounded" src="img/gallery-6.jpg" alt=""&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-lg-3 col-md-6"&gt;</remark></note><note><remark>&lt;h5 class="text-white mb-4"&gt;Newsletter&lt;/h5&gt;</remark></note><note><remark>&lt;p&gt;Dolor amet sit justo amet elitr clita ipsum elitr est.&lt;/p&gt;</remark></note><note><remark>&lt;div class="position-relative mx-auto" style="max-width: 400px;"&gt;</remark></note><note><remark>&lt;input class="form-control border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email"&gt;</remark></note><note><remark>&lt;button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2"&gt;SignUp&lt;/button&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note>© <link linkend="">版權所有</link>, Viper-Studio </para>
+          <para>
+            <note>
+              <remark>&lt;!-- /*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/--&gt;</remark>
+            </note>
+            <note>
+              <remark>Designed By &lt;a href="https://htmlcodex.com"&gt;HTML Codex&lt;/a&gt;</remark>
+            </note>
+            <note>
+              <remark>&lt;br&gt;Distributed By: &lt;a href="https://themewagon.com" target="_blank"&gt;ThemeWagon&lt;/a&gt;</remark>
+            </note>
+            <note>
+              <remark>Footer End</remark>
+            </note>
+            <note>
+              <remark>Back to Top</remark>
+            </note>
+            <note>
+              <remark>JavaScript Libraries</remark>
+            </note>
+            <note>
+              <remark>Template Javascript</remark>
+            </note>
+          </para>
+        </sect4>
+      </sect3>
+    </sect2>
+  </sect1>
+</article>
