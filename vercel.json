@@ -6,7 +6,7 @@
       "has": [
         {
           "type": "host",
-          "value": "winner-individualized-instruction-kentung52.vercel.app"
+          "value": "https://winner-individualized-instruction-kentung52.vercel.app"
         }
       ],
       "destination": "https://winner-individualized-instruction.vercel.app/:path*",
